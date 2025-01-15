@@ -16,7 +16,7 @@ A local diet and workout tracking application built with Python, PyQt5, and SQLA
     ```
 3. Install dependencies:
     ```bash
-    pip install PyQt5 SQLAlchemy
+    pip install tkinter SQLAlchemy matplotlib
     ```
 4. Run the application:
     ```bash
