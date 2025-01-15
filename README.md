@@ -1,6 +1,6 @@
 # Diet and Workout Tracker
 
-A local diet and workout tracking application built with Python, PyQt5, and SQLAlchemy.
+A local diet and workout tracking application built with Python, tkinter, matplotlib, and SQLAlchemy
 
 ## Features
 - Log meals with calorie information.
